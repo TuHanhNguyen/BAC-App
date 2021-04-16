@@ -1,6 +1,8 @@
 # BAC-App
 An mobile app for Business Analyst community that focus on job placement and mentoring service
 
+The other documents of this project is only visible for group members.
+
 ### Group member: Tu Hanh Nguyen,Phạm Thị Thúy Quyên, Bùi Xuân Hương
 
 Live presentation: https://drive.google.com/file/d/1TRLYBKGNcNdYleZsJIq_5O82aNhQwiWc/view
